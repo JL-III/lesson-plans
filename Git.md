@@ -2,6 +2,19 @@
 To download git, go to the following link and download the version that is appropriate for your operating system:
 https://git-scm.com/downloads
 
+## Verify git installation
+To verify that git has been installed correctly, open a terminal and run the following command:
+```
+git --version
+```
+
+## Set up git
+To set up git, open a terminal and run the following commands:
+```
+git config --global user.name "<your-name>"
+git config --global user.email "<your-email>"
+```
+
 ## Clone the repository
 To clone the repository, open a terminal and navigate to the directory where you would like to store the repository. Then run the following command:
 ```
