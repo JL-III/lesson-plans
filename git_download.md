@@ -20,7 +20,7 @@ To clone the repository, open a terminal and navigate to the directory where you
 ```
 git clone git@github.com:JL-III/lesson-plans.git
 ```
-keep in mind that the repository you just cloned is a copy of the repository on github. If you would like to make changes to the repository, you will need to create a branch. To create a branch, run the following command:
+Keep in mind that the repository you just cloned is a copy of the repository on github. If you would like to make changes to the repository, you will need to create a branch. To create a branch, run the following command:
 ```
 git checkout -b <branch-name>
 ```

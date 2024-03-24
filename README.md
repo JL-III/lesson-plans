@@ -2,4 +2,4 @@
 A centralized repo for lesson plans
 
 # Table of Contents
-1. [Git](./Git.md)
+1. [git download](./git_download)
