@@ -18,7 +18,7 @@ git config --global user.email "<your-email>"
 ## Clone the repository
 To clone the repository, open a terminal and navigate to the directory where you would like to store the repository. Then run the following command:
 ```
-git clone git@github.com:JL-III/lesson-plans.git
+git clone https://github.com/JL-III/lesson-plans.git
 ```
 Keep in mind that the repository you just cloned is a copy of the repository on github. If you would like to make changes to the repository, you will need to create a branch. To create a branch, run the following command:
 ```
