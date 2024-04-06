@@ -1,7 +1,5 @@
 package com.cooksys.ftd.assignments.control;
 
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
-
 /**
  * FizzBuzz is an old programming exercise.
  * The goal is to iterate over a range of numbers and print a message about each number's divisibility.
@@ -26,7 +24,7 @@ public class FizzBuzz {
      * @throws IllegalArgumentException if b is zero
      */
     public static boolean divides(int a, int b) throws IllegalArgumentException {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
     /**
@@ -41,7 +39,7 @@ public class FizzBuzz {
      * @return a message according to the format above, or null if n is not divisible by either 3 or 5
      */
     public static String message(int n) {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
     /**
@@ -55,7 +53,7 @@ public class FizzBuzz {
      * @throws IllegalArgumentException if the given end is less than the given start
      */
     public static String[] messages(int start, int end) throws IllegalArgumentException {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
     /**
@@ -63,7 +61,7 @@ public class FizzBuzz {
      * the relevant messages to sysout
      */
     public static void main(String[] args) {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
 }

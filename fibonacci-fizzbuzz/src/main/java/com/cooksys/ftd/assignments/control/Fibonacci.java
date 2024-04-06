@@ -1,7 +1,5 @@
 package com.cooksys.ftd.assignments.control;
 
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
-
 /**
  * The Fibonacci sequence is simply and recursively defined: the first two elements are `1`, and
  * every other element is equal to the sum of its two preceding elements. For example:
@@ -24,7 +22,7 @@ public class Fibonacci {
      * @throws IllegalArgumentException if the given index is less than zero
      */
     public static int atIndex(int i) throws IllegalArgumentException {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
     /**
@@ -38,7 +36,7 @@ public class Fibonacci {
      *                                  given end is less than the given start
      */
     public static int[] slice(int start, int end) throws IllegalArgumentException {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 
     /**
@@ -49,6 +47,6 @@ public class Fibonacci {
      * @throws IllegalArgumentException if the given count is negative
      */
     public static int[] fibonacci(int count) throws IllegalArgumentException {
-        throw new NotImplementedException();
+        throw new UnsupportedOperationException("Method not implemented");
     }
 }
