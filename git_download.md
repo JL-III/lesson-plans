@@ -27,6 +27,6 @@ git checkout -b <branch-name>
 Replace `<branch-name>` with the name of the branch you would like to create. Once you have created a branch, you can make changes to the repository. To push your changes to the repository, run the following command:
 ```
 git add -A
-git commit -m "<commit-message>"
+git commit -m '<commit-message>'
 git push --set-upstream origin <branch-name>
 ```
